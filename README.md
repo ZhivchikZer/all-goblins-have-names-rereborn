@@ -1,4 +1,4 @@
-# All Goblins Have Names ReReborn
+# 😏All Goblins Have Names ReReborn
 
 Use a table as the display name for a token, so each new token gets a random name.
 
