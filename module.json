@@ -1,0 +1,30 @@
+{
+  "id": "all-goblins-have-names-rereborn",
+  "title": "😏 All Goblins Have Names ReReborn",
+  "description": "Use a rolltable as the display name for a token. New tokens get a random name.",
+  "version": "3.0.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13",
+    "maximum": "13"
+  },
+  "authors": [
+    {
+      "name": "Gandamir",
+      "url": "https://github.com/mnoreke"
+    },
+{
+      "name": "Gandamir",
+      "url": "https://github.com/mnoreke"
+    }
+  ],
+  "esmodules": ["scripts/index.js"],
+  "url": "https://github.com/mnoreke/all-goblins-have-names",
+  "license": "https://github.com/mnoreke/all-goblins-have-names/blob/main/LICENSE",
+  "bugs": "https://github.com/mnoreke/all-goblins-have-names/issues",
+  "download": "https://github.com/mnoreke/all-goblins-have-names/releases/latest/download/module.zip",
+  "manifest": "https://github.com/mnoreke/all-goblins-have-names/releases/latest/download/module.json",
+  "flags": {
+    "allowBugReporter": true
+  }
+}
