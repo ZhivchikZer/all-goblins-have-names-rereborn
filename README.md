@@ -13,7 +13,6 @@ When multiple lines are returned from a table, the lines will be joined together
 
 ![A RollTable that returns multiple lines on the same dice roll, for firstname and lastname]
 
-![A RollTable that returns multiple lines on the same dice roll, for firstname and lastname](./test.webm)
 
 ## Random biographies with Better Rolltables
 
