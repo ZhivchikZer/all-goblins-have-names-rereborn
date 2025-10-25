@@ -11,7 +11,7 @@ And if you combine it with a module with Better Rolltables... man it will be bea
 
 When multiple lines are returned from a table, the lines will be joined together with a space. For example, you could have a roll table formula of 1d1, and have two results which are also tables for a firstname and a lastname, both with range 1-1.
 
-![A RollTable that returns multiple lines on the same dice roll, for firstname and lastname]
+![test]([https://user-images.githubusercontent.com/15639841/190035889-65905398-4c9b-4e82-be5b-680c1ef47a16.gif](https://github.com/ZhivchikZer/all-goblins-have-names-rereborn/blob/main/%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C%2001_2.gif))
 
 
 ## Random biographies with Better Rolltables
