@@ -151,6 +151,11 @@ async function saveRolledValues(tokenDocument, result) {
     if (cleanedName) {
         // Сохраняем очищенное имя токена
         await tokenDocument.update({ name: cleanedName });
+        // Для не связанных токенов (NPC) также обновляем имя синтетического актера
+        // чтобы в листе персонажа (Actor Sheet) отображалось сгенерированное имя
+        if (tokenDocument.actor && !tokenDocument.isLinked) {
+            await tokenDocument.actor.update({ name: cleanedName });
+        }
     }
     
     if (rawBio && result?.bioDataPath && tokenDocument.actor) {
