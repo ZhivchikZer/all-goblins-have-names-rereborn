@@ -1,37 +1,43 @@
-{
-  "id": "all-goblins-have-names-rereborn",
-  "title": "😏 All Goblins Have Names ReReborn",
-  "description": "Use a rolltable as the display name for a token. New tokens get a random name.",
-  "version": "3.0.0",
-  "compatibility": {
-    "minimum": "14",
-    "verified": "14"
-  },
-  "authors": [
-    {
-      "name": "Gandamir",
-      "discord": "Gandamir",
-      "flags": {}
-    },
-    {
-      "name": "Tom Rodriguez",
-      "discord": "toasty#8538",
-      "flags": {}
-    },
-    {
-      "name": "Zhivchik",
-      "url": "https://github.com/ZhivchikZer",
-      "flags": {}
-    }
-  ],
-  "esmodules": [
-    "scripts/index.js"
-  ],
-  "url": "https://github.com/ZhivchikZer/all-goblins-have-names-rereborn",
-  "license": "https://github.com/ZhivchikZer/all-goblins-have-names-rereborn/blob/main/LICENSE",
-  "download": "https://github.com/ZhivchikZer/all-goblins-have-names-rereborn/releases/download/3.0.0/all-goblins-have-names-rereborn.zip",
-  "manifest": "https://github.com/ZhivchikZer/all-goblins-have-names-rereborn/releases/download/3.0.0/module.json",
-  "flags": {
-    "allowBugReporter": true
-  }
+﻿{
+    "id":  "all-goblins-have-names-rereborn",
+    "title":  "рџЏ All Goblins Have Names ReReborn",
+    "description":  "Use a rolltable as the display name for a token. New tokens get a random name.",
+    "version":  "3.1.0",
+    "compatibility":  {
+                          "minimum":  "14",
+                          "verified":  "14"
+                      },
+    "authors":  [
+                    {
+                        "name":  "Gandamir",
+                        "discord":  "Gandamir",
+                        "flags":  {
+
+                                  }
+                    },
+                    {
+                        "name":  "Tom Rodriguez",
+                        "discord":  "toasty#8538",
+                        "flags":  {
+
+                                  }
+                    },
+                    {
+                        "name":  "Zhivchik",
+                        "url":  "https://github.com/ZhivchikZer",
+                        "flags":  {
+
+                                  }
+                    }
+                ],
+    "esmodules":  [
+                      "scripts/index.js"
+                  ],
+    "url":  "https://github.com/ZhivchikZer/all-goblins-have-names-rereborn",
+    "license":  "https://github.com/ZhivchikZer/all-goblins-have-names-rereborn/blob/main/LICENSE",
+    "download":  "https://github.com/ZhivchikZer/all-goblins-have-names-rereborn/releases/download/3.1.0/all-goblins-have-names-rereborn.zip",
+    "manifest":  "https://github.com/ZhivchikZer/all-goblins-have-names-rereborn/releases/download/3.1.0/module.json",
+    "flags":  {
+                  "allowBugReporter":  true
+              }
 }
